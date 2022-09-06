@@ -1,0 +1,30 @@
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.csproj.AssemblyReference.cache
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.AssemblyInfoInputs.cache
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.AssemblyInfo.cs
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.exe
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.deps.json
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.runtimeconfig.json
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.dll
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.pdb
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.dll
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\refint\Nemetschek.dll
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.pdb
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.genruntimeconfig.cache
+C:\Users\Mr.Danch0 Hristovich\source\repos\Nemetschek\Nemetschek\obj\Debug\net6.0\ref\Nemetschek.dll
+D:\Downloads\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.exe
+D:\Downloads\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.deps.json
+D:\Downloads\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.runtimeconfig.json
+D:\Downloads\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.dll
+D:\Downloads\Nemetschek\Nemetschek\bin\Debug\net6.0\Nemetschek.pdb
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.csproj.AssemblyReference.cache
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.AssemblyInfoInputs.cache
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.AssemblyInfo.cs
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.csproj.CoreCompileInputs.cache
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.dll
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\refint\Nemetschek.dll
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.pdb
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\Nemetschek.genruntimeconfig.cache
+D:\Downloads\Nemetschek\Nemetschek\obj\Debug\net6.0\ref\Nemetschek.dll

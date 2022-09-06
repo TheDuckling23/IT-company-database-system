@@ -1,0 +1,6 @@
+Ceo,Danchi,21,23
+Junior,Danca,12,32
+Ceo,Danchas,23,12
+Intern,Dansa,12,3
+Senior,Snadi,21,3
+Junior,Ochnas,23,12
